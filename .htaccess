@@ -1,0 +1,5 @@
+AddDefaultCharset utf-8
+AddType "text/html" sh
+
+ErrorDocument 404 /error/404.html
+DirectoryIndex index.html index.org install.sh
