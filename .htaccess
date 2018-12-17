@@ -3,3 +3,7 @@ AddType "text/html" sh
 
 ErrorDocument 404 /error/404.html
 DirectoryIndex index.html index.org install.sh
+
+redirect 301 /gitignore https://raw.githubusercontent.com/conao3/dotfiles/master/.gitignore_global
+redirect 301 /dotfiles https://github.com/conao3/dotfiles
+redirect 301 /emacs https://github.com/conao3/dotfiles/tree/master/.emacs.d
