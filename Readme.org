@@ -8,3 +8,5 @@
 
 * What is it?
 This repository files is hosted at http://dotfiles.conao3.com/ to ease install my dotfiles.
+
+See my [[https://github.com/conao3/dotfiles][dotfiles]] to get more information.
