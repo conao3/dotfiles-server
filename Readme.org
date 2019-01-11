@@ -1,10 +1,10 @@
 #+author: conao
 #+date: <2018-10-25 Thu>
 
-* dotfiles_server
 [[https://github.com/conao3/dotfiles_server][https://img.shields.io/github/tag/conao3/dotfiles_server.svg?style=flat-square]]
 [[https://travis-ci.org/conao3/dotfiles_server][https://img.shields.io/travis/conao3/dotfiles_server/master.svg?style=flat-square]]
 [[https://github.com/conao3/dotfiles_server][https://img.shields.io/github/license/conao3/dotfiles_server.svg?style=flat-square]]
+[[https://github.com/conao3/github-header][https://files.conao3.com/github-header/gif/dotfiles-server.gif]]
 
 * What is it?
 This repository files is hosted at http://dotfiles.conao3.com/ to ease install my dotfiles.
