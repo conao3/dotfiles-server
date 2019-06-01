@@ -1,8 +1,6 @@
 #+author: conao
 #+date: <2018-10-25 Thu>
 
-* What is it?
-
 [[https://github.com/conao3/dotfiles-server][https://raw.githubusercontent.com/conao3/files/master/header/png/dotfiles-server.png]]
 [[https://github.com/conao3/dotfiles-server/blob/master/LICENSE][https://img.shields.io/github/license/conao3/dotfiles-server.svg?style=flat-square]]
 [[https://github.com/conao3/dotfiles-server/releases][https://img.shields.io/github/tag/conao3/dotfiles-server.svg?style=flat-square]]
@@ -13,7 +11,7 @@
 [[https://conao3-support.slack.com/join/shared_invite/enQtNjUzMDMxODcyMjE1LWUwMjhiNTU3Yjk3ODIwNzAxMTgwOTkxNmJiN2M4OTZkMWY0NjI4ZTg4MTVlNzcwNDY2ZjVjYmRiZmJjZDU4MDE][https://img.shields.io/badge/chat-on_slack-blue.svg?logo=slack&style=flat-square]]
 
 * Table of Contents
-- [[#background][Background]]
+- [[#description][Description]]
 - [[#install][Install]]
 - [[#usage][Usage]]
 - [[#information][Information]]
@@ -24,7 +22,7 @@
   - [[#author][Author]]
   - [[#contributors][Contributors]]
 
-* Background
+* Description
 This repository files is hosted at http://dotfiles.conao3.com/ to ease install my dotfiles.
 
 See my [[https://github.com/conao3/dotfiles][dotfiles]] to get more information.
