@@ -1,7 +1,7 @@
 #+author: conao
 #+date: <2018-10-25 Thu>
 
-[[https://github.com/conao3/dotfiles-server][https://raw.githubusercontent.com/conao3/files/master/header/png/dotfiles-server.png]]
+[[https://github.com/conao3/dotfiles-server][https://raw.githubusercontent.com/conao3/files/master/blob/headers/png/dotfiles-server.png]]
 [[https://github.com/conao3/dotfiles-server/blob/master/LICENSE][https://img.shields.io/github/license/conao3/dotfiles-server.svg?style=flat-square]]
 [[https://github.com/conao3/dotfiles-server/releases][https://img.shields.io/github/tag/conao3/dotfiles-server.svg?style=flat-square]]
 [[https://travis-ci.org/conao3/dotfiles-server][https://img.shields.io/travis/conao3/dotfiles-server/master.svg?style=flat-square]]
